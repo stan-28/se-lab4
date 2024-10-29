@@ -1,0 +1,4 @@
+# Firing mode single, only first cannon shoots, but runs out of torpedo
+GT4500,1,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
