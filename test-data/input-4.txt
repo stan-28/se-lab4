@@ -1,0 +1,4 @@
+# Firing mode: single, only first cannon shoots, multiple times
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

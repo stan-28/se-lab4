@@ -1,0 +1,3 @@
+#Firing mode: Unknown
+GT4500,1,1,1,1
+TORPEDO,-1
